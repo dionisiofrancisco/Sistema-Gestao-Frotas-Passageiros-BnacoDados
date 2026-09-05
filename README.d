@@ -1,4 +1,3 @@
-# Sistema-Gestao-Frotas-Passageiros-BnacoDados
 # 🚘 Sistema de Gestão de Frota e Passageiros
 
 > Sistema corporativo modular desenvolvido em Python e SQLite com foco em Arquitetura Orientada a Objetos (POO), Separação de Responsabilidades (SOLID) e Persistência Segura de Dados.
